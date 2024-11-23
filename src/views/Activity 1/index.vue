@@ -2,7 +2,7 @@
     <ion-page>
        <ion-header>
           <ion-toolbar>
-           <ion-title>Activity 1</ion-title>
+           <ion-title>Activity1</ion-title>
           </ion-toolbar>
        </ion-header>
        <ion-content class="ion-no-padding">
@@ -10,21 +10,21 @@
             <ion-item lines="full">
                 <ion-icon slot="start" :icon="logoIonic"></ion-icon>
                 <ion-label>
-                    <h3><strong>Activity 1: IonList, IonItem, IonIcon, IonLabel</strong></h3>
+                    <h3><strong>Activity1: IonList, IonItem, IonIcon, IonLabel</strong></h3>
                     <p><small>Learn to use IonList, IonItem, IonLabel, components </small></p>
                 </ion-label>
             </ion-item>
             <ion-item lines="full" @click="()=>{$router.push('/activity2')}">
                 <ion-icon slot="start" :icon="logoIonic"></ion-icon>
                 <ion-label>
-                    <h3><strong>Activity 2: IonCard, IonCardContent</strong></h3>
+                    <h3><strong>Activity2: IonCard, IonCardContent</strong></h3>
                     <p><small>Learn to use  IonCard, IonCardContent components </small></p>
                 </ion-label>
             </ion-item>
             <ion-item lines="full" @click="()=>{$router.push('/activity3')}">
                 <ion-icon slot="start" :icon="logoIonic"></ion-icon>
                 <ion-label>
-                    <h3><strong>Activity 3: Modal Implementation</strong></h3>
+                    <h3><strong>Activity3: Modal Implementation</strong></h3>
                     <p><small>Learn to use Modal components </small></p>
                 </ion-label>
             </ion-item>

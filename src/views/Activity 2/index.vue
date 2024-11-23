@@ -17,7 +17,7 @@
    </ion-card-content>
 </ion-card>
 <ion-card>
-    <img src="https://tse4.mm.bing.net/th?id=OIP.xENeyjWwnGcu3jw_MWA8HwHaHa&pid=Api&P=0&h=180" />
+    <img src="https://www.motodeal.com.ph/custom/blog-post/header/here-are-10-lightweight-big-bikes-worth-considering-in-2023-63c40bb76467d.jpeg" />
     <ion-card-content>
      Here's a small text description for the card content. Nothing more, nothing less.
    </ion-card-content>
