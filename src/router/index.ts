@@ -32,7 +32,19 @@ const routes: Array<RouteRecordRaw> = [
         component: () => import('@/views/Activity 3/index.vue')
         
       },
-
+      {
+        path: '/activity4',
+        component: () => import('@/views/Activity 4/index.vue')
+      },
+      {
+        path: '/activity5',
+        component: () => import('@/views/Activity 5/index.vue')
+      },
+      {
+        path: '/activity6',
+        component: () => import('@/views/Activity 6/index.vue')
+      },
+    
     ]
   }
 ]

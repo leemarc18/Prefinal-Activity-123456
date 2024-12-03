@@ -17,7 +17,7 @@
    </ion-card-content>
 </ion-card>
 <ion-card>
-    <img src="https://wallpaperaccess.com/full/550401.jpg" />
+    <img src="https://www.saatva.com/blog/wp-content/uploads/2021/03/f179b237-37cf-4132-abf4-8497f46b7e19_sleeping-in-space-main-4.jpeg" />
     <ion-card-content>
      Here's a small text description for the card content. Nothing more, nothing less.
    </ion-card-content>
